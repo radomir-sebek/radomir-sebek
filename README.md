@@ -20,14 +20,14 @@ Lead Software Development Engineer in Test (SDET) with several years of people m
 | [Taxfix](https://www.taxfix.de), Berlin (DE) — Staff Software Engineer in Test ( #techlayoff)                                | April 2023 - Oct 2023              |
 | [Infarm](https://www.infarm.com/), Berlin (DE) — Software QA Team Lead (#techlayoff)                                           | Jan 2022 - Feb 2023                |
 | [Finiata GmbH](https://www.finiata.com), Berlin (DE) — Senior Quality Engineer                                                 | Oct 2020 - Nov 2021                |
-| [i2x GmbH](https://i2x.ai/), Berlin (DE) — Lead Quality Engineer                                                       | Sep 2019 - Sep 202                 |
+| [i2x GmbH](https://i2x.ai/), Berlin (DE) — Lead Quality Engineer                                                       | Sep 2019 - Sep 2020                 |
 | [OSRAM Innovation Hub GmbH](https://www.lightelligence.io/), Berlin (DE) — Senior Test Engineer                                       | May 2019 - Aug 2019                |
 | [Here Technologies](https://www.here.com/), Berlin (DE)                                                                      | two projects over ~3 years period: |
 | 1. Lead R&D Test Engineer, IoT division                                                                | Jan 2018 - Mar 2019                |
 | 2. Senior Quality Assurance Engineer, Automotive division                                              | Jun 2016 - Dec 2017                |
 | [Native Instruments](https://www.here.com/), Berlin (DE) - Software & Integrated Systems Tester                              | Sep 2014 - Jun 2016                |
 | [Microsoft, Skype division](https://www.skype.com/en/), Tallinn (EE) + Prague (CZ)- Software Development Engineer in Test (SDET) | Jun 2012 - Jun 201                 |
-| [Mindware OÜ](), Tallinn (EE) - QA Engineer Sep 2011                                                      | Sep 2011 - May 2012                |
+| Mindware OÜ, Tallinn (EE) - QA Engineer Sep 2011                                                      | Sep 2011 - May 2012                |
 
 
 ## EXPERIENCE (pro-bono, consultant, part-time, fractional)
