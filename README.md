@@ -2,17 +2,17 @@
 
 Lead Software Development Engineer in Test (SDET) with several years of people management experience. Proven record of leading & establishing lean quality-focused practices in development teams. [LinkedIn](https://www.linkedin.com/in/radomirsebek/).
 
-## LANGUAGES
+#### LANGUAGES
 
 - English (fluent) Serbo-Croatian (native), German (B1), Russian (B2)
 
-## MISCELLANEOUS
+#### MISCELLANEOUS
 
 - origin: Serbia & Montenegro
 
 - Passport of Montenegro, with permanent residence permit in Germany - Niederlassungserlaubnis.
 
-## EXPERIENCE (full time)
+#### EXPERIENCE (full time)
 
 | position                                                                                              | time interval                        |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -30,14 +30,14 @@ Lead Software Development Engineer in Test (SDET) with several years of people m
 | Mindware OÜ, Tallinn (EE) - QA Engineer Sep 2011                                                      | Sep 2011 - May 2012                |
 
 
-## EXPERIENCE (pro-bono, consultant, part-time, fractional)
+#### EXPERIENCE (pro-bono, consultant, part-time, fractional)
 
 | position      | time interval |
 | ----------- | ----------- |
 | [OriginTrail](https://origintrail.io/), remote — Software Testing Engineer      | Mar 2018 - Jan 2019       |
 | [Testlio](https://testlio.com/), remote — Testlion (tester and teams team coordinator)   | Jan 2015 - Oct 2015        |
 
-## EDUCATION 2007 - 2012
+#### EDUCATION 2007 - 2012
 
 - [Tallinn University of Technology](https://taltech.ee/en) & [Tartu University](https://ut.ee/en), Estonia — Master degree called “Software engineering joint program - specialization in Embedded Real Time Systems”, first class honors (4.8/5)
 
