@@ -4,7 +4,7 @@ Lead Software Development Engineer in Test (SDET) with several years of people m
 
 #### LANGUAGES
 
-- English (fluent) Serbo-Croatian (native), German (B1), Russian (B2)
+- English (fluent), Serbo-Croatian (native), German (B1), Russian (B2)
 
 #### MISCELLANEOUS
 
