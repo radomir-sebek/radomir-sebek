@@ -25,7 +25,7 @@ Lead Software Development Engineer in Test (SDET) with several years of people m
 | [Here Technologies](https://www.here.com/)                                                                      | Berlin (DE), on-site | two projects over ~3 years period: |
 | 1. Lead R&D Test Engineer, IoT division                                                                |  | Jan 2018 - Mar 2019                |
 | 2. Senior Quality Assurance Engineer, Automotive division                                              |  | Jun 2016 - Dec 2017                |
-| [Native Instruments](https://www.here.com/) - Software & Integrated Systems Tester                              | Berlin (DE), on-site | Sep 2014 - Jun 2016                |
+| [Native Instruments](https://www.native-instruments.com/en/) - Software & Integrated Systems Tester                              | Berlin (DE), on-site | Sep 2014 - Jun 2016                |
 | [Microsoft, Skype division](https://www.skype.com/en/) - Software Development Engineer in Test  | Tallinn (EE) + Prague (CZ), on-site | Jun 2012 - Jun 2014                 |
 | Mindware OÜ - QA Engineer                                                       | Tallinn (EE), on-site | Sep 2011 - May 2012                |
 
