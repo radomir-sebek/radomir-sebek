@@ -10,13 +10,14 @@ Lead Software Development Engineer in Test (SDET) with several years of people m
 
 - origin: Serbia & Montenegro
 
-- Passport of Montenegro, with permanent residence permit in Germany - Niederlassungserlaubnis.
+- Passports of Montenegro + Germany.
 
 #### EXPERIENCE (full time)
 
 | position                                                                                              | location | time interval                        |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------------- |
-| [GLS/NXT](https://www.glsnxt.com/) — Software QA Engineering Lead                                                 | Berlin (DE), hybrid | Nov 2023 - present                 |
+| [Doctolib](https://www.doctolib.de/) — Lead QA Analyst                                                 | Berlin (DE), hybrid | March 2026 - present 
+| [GLS/NXT](https://www.glsnxt.com/) — Software QA Engineering Lead                                                 | Berlin (DE), hybrid | Nov 2023 - Feb 2026                 |
 | [Taxfix](https://www.taxfix.de) — Staff Software Engineer in Test ( #techlayoff)                                | Berlin (DE), on-site | April 2023 - Oct 2023              |
 | [Infarm](https://www.infarm.com/) — Software QA Team Lead (#techlayoff)                                           | Berlin (DE), on-site | Jan 2022 - Feb 2023                |
 | [Finiata GmbH](https://www.finiata.com) — Senior Quality Engineer                                                 | Berlin (DE), on-site  | Oct 2020 - Nov 2021                |
